@@ -1,0 +1,917 @@
+\begin{thebibliography}{129}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aires et~al.(2017)]{aires2017norm}
+Jo{\~a}o~Paulo Aires, Daniele Pinheiro, Vera~Strube De~Lima, and Felipe
+  Meneguzzi.
+\newblock Norm conflict identification in contracts.
+\newblock \emph{Artificial {I}ntelligence and {L}aw}, 25\penalty0 (4):\penalty0
+  397--428, 2017.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s10506-017-9205-x}.
+
+\bibitem[Aires et~al.(2019)]{aires2019classification}
+Jo{\~a}o~Paulo Aires, Roger Granada, Juarez Monteiro, Rodrigo~Coelho Barros,
+  and Felipe Meneguzzi.
+\newblock Classification of contractual conflicts via learning of semantic
+  representations.
+\newblock In \emph{Proceedings of the 18th International Conference on
+  Autonomous Agents and MultiAgent Systems}, pages 1764--1766. International
+  Foundation for Autonomous Agents and Multiagent Systems, 2019.
+\newblock URL
+  \url{http://www.meneguzzi.eu/felipe/pubs/aamas-conflict-classification-2019.pdf}.
+
+\bibitem[Aires(2019)]{aires2019automatic}
+João Paulo de~Souza Aires.
+\newblock \emph{Automatic {R}easoning {O}ver {C}ontract {C}lauses}.
+\newblock PhD thesis, PUCRS, School of Technology, 2019.
+\newblock URL \url{https://github.com/mir-pucrs/concon-front-end}.
+
+\bibitem[Aitken and Stoney(1991)]{aitken1991use}
+Colin~GG Aitken and David~A Stoney.
+\newblock \emph{The {U}se of {S}tatistics in {F}orensic {S}cience}.
+\newblock CRC Press, 1991.
+\newblock URL
+  \url{https://www.crcpress.com/The-Use-Of-Statistics-In-Forensic-Science/Aitken-Stoney/p/book/9780139337482}.
+
+\bibitem[Allen(1963)]{allen1963beyond}
+Layman~E. Allen.
+\newblock Beyond document retrieval toward information retrieval.
+\newblock \emph{Minnesota {L}aw {R}eview}, 47:\penalty0 713, 1963.
+\newblock URL \url{https://digitalcommons.law.yale.edu/fss_papers/4515}.
+
+\bibitem[Allen and Caldwell(1963)]{allen1963modern}
+Layman~E. Allen and Mary~Ellen Caldwell.
+\newblock Modern logic and judicial decision making: a sketch of one view.
+\newblock \emph{Law \& {C}ontemporary {P}roblems}, 28:\penalty0 213, 1963.
+\newblock URL \url{https://digitalcommons.law.yale.edu/fss_papers/4816}.
+
+\bibitem[Amunategui(2014)]{amunategui2014symbolic}
+Godofredo~Iommi Amunategui.
+\newblock Symbolic {L}anguages and {A}rs {C}ombinatoria.
+\newblock \emph{arXiv:1411.3188}, 2014.
+\newblock URL \url{https://arxiv.org/abs/1411.3188}.
+
+\bibitem[Austen-Smith and Banks(1996)]{austen1996information}
+David Austen-Smith and Jeffrey~S Banks.
+\newblock Information aggregation, rationality, and the condorcet jury theorem.
+\newblock \emph{American political science review}, 90\penalty0 (1):\penalty0
+  34--45, 1996.
+\newblock URL \url{https://authors.library.caltech.edu/67312/1/2082796.pdf}.
+
+\bibitem[Baker(2016)]{baker2016why}
+Monya Baker.
+\newblock Why scientists must share their research code.
+\newblock \emph{Nature {N}ews}, 2016.
+\newblock URL
+  \url{https://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504}.
+
+\bibitem[Bayes(1763)]{bayes1763essay}
+Thomas Bayes.
+\newblock An essay towards solving a problem in the doctrine of chances. by the
+  late rev. mr. bayes, frs communicated by mr. price, in a letter to john
+  canton, amfr s.
+\newblock \emph{Philosophical transactions of the Royal Society of London},
+  \penalty0 (53):\penalty0 370--418, 1763.
+\newblock URL
+  \url{https://www.ias.ac.in/article/fulltext/reso/008/04/0080-0088}.
+
+\bibitem[Bench-Capon(2015)]{bench2015knowledge}
+Trevor~JM Bench-Capon.
+\newblock \emph{Knowledge-based systems and legal applications}, volume~36.
+\newblock Academic Press, 2015.
+\newblock URL \url{https://link.springer.com/article/10.1007/BF00150230}.
+
+\bibitem[Berg(1993)]{berg1993condorcet}
+Sven Berg.
+\newblock Condorcet's jury theorem, dependency among jurors.
+\newblock \emph{Social Choice and Welfare}, 10\penalty0 (1):\penalty0 87--95,
+  1993.
+\newblock URL \url{https://link.springer.com/article/10.1007/BF00187435}.
+
+\bibitem[Berg(1996)]{berg1996condorcet}
+Sven Berg.
+\newblock Condorcet's {J}ury {T}heorem and the reliability of majority voting.
+\newblock \emph{Group {D}ecision and {N}egotiation}, 5\penalty0 (3):\penalty0
+  229--238, 1996.
+\newblock URL \url{https://link.springer.com/article/10.1007/BF02400945}.
+
+\bibitem[Berger(2011)]{berger2011admissibility}
+Margaret~A. Berger.
+\newblock \emph{The Admissibility of Expert Testimony}.
+\newblock National Academies Press, 2011.
+\newblock URL \url{https://www.fjc.gov/content/admissibility-expert-testimony}.
+
+\bibitem[Bernoulli(1713)]{bernoulli1713ars}
+Jakob Bernoulli.
+\newblock \emph{Ars {C}onjectandi}.
+\newblock Impensis {T}hurnisiorum, {F}ratrum, 1713.
+\newblock URL \url{https://archive.org/details/bub_gb_kz9nvk99EWoC}.
+
+\bibitem[Bernoulli(1709)]{bernoulli1709dissertatio}
+Nicolas~I Bernoulli.
+\newblock \emph{Dissertatio inauguralis mathematico-juridica: De {U}su {A}rtis
+  {C}onjectandi in {J}ure}.
+\newblock a Mechel, 1709.
+\newblock URL
+  \url{https://play.google.com/store/books/details?id=svVIAAAAcAAJ&rdid=book-svVIAAAAcAAJ&rdot=1}.
+
+\bibitem[Birnbaum(1962)]{birnbaum1962foundations}
+Allan Birnbaum.
+\newblock On the {F}oundations of {S}tatistical {I}nference.
+\newblock \emph{Journal of the {A}merican {S}tatistical {A}ssociation},
+  57\penalty0 (298):\penalty0 269--306, 1962.
+\newblock URL \url{https://www.jstor.org/stable/2281640}.
+
+\bibitem[Boland(1989)]{boland1989majority}
+Philip~J Boland.
+\newblock Majority {S}ystems and the {C}ondorcet {J}ury {T}heorem.
+\newblock \emph{Journal of the Royal Statistical Society: Series D (The
+  Statistician)}, 38\penalty0 (3):\penalty0 181--189, 1989.
+\newblock URL \url{https://www.jstor.org/stable/2348873}.
+
+\bibitem[Box(1979)]{box1979robustness}
+George~E.P. Box.
+\newblock Robustness in the strategy of scientific model building.
+\newblock In \emph{Robustness in {S}tatistics}, pages 201--236. Elsevier, 1979.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/B9780124381506500182}.
+
+\bibitem[Brasil(1988)]{brasil988constituicao}
+Brasil.
+\newblock Constituição.
+\newblock \emph{Bras{\'\i}lia (DF)}, 1988.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm}.
+
+\bibitem[Brasil(2011)]{brasil2011lei}
+Brasil.
+\newblock Lei n0. 12.527, de 18 de novembro de 2011, 2011.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm}.
+
+\bibitem[Brasil(2012)]{brasil2012decreto}
+Brasil.
+\newblock Decreto n0. 7.724, de 16 de maio de 2012, 2012.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/Decreto/D7724.htm}.
+
+\bibitem[Brasil(2015)]{brasil2015lei}
+Brasil.
+\newblock Lei no. 13.105, de 16 de março de 2015, 2015.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm}.
+
+\bibitem[Brasil(2016)]{brasil2016projeto}
+Brasil.
+\newblock Projeto de lei no. 5850/2016, de 20 de setembro de 2019, 2016.
+\newblock URL
+  \url{https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2092189}.
+
+\bibitem[Brasil(2017)]{brasil2017lei}
+Brasil.
+\newblock Lei no. 13.509/2017, de 22 de novembro de 2017, 2017.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13509.htm}.
+
+\bibitem[Brasil(2019)]{brasil2019lei}
+Brasil.
+\newblock Lei no. 13.874, de 20 de setembro de 2019, 2019.
+\newblock URL
+  \url{http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13874.htm}.
+
+\bibitem[Breiman(2001)]{breiman2001statistical}
+Leo Breiman.
+\newblock Statistical {M}odeling: {T}he {T}wo {C}ultures (with comments and a
+  rejoinder by the author).
+\newblock \emph{Statistical {S}cience}, 16\penalty0 (3):\penalty0 199--231,
+  2001.
+\newblock URL
+  \url{https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726}.
+
+\bibitem[Cane and Kritzer(2010)]{cane2010oxford}
+Peter Cane and Herbert Kritzer.
+\newblock \emph{The Oxford {H}andbook of {E}mpirical {L}egal {R}esearch}.
+\newblock OUP Oxford, 2010.
+\newblock URL
+  \url{https://global.oup.com/academic/product/the-oxford-handbook-of-empirical-legal-research-9780199542475}.
+
+\bibitem[Cohen(2015)]{cohen2015expert}
+Kenneth~S. Cohen.
+\newblock \emph{Expert {W}itnessing and {S}cientific {T}estimony: {A}
+  {G}uidebook}.
+\newblock CRC Press, 2015.
+\newblock URL
+  \url{https://www.crcpress.com/Expert-Witnessing-and-Scientific-Testimony-A-Guidebook-Second-Edition/Cohen/p/book/9781498721066}.
+
+\bibitem[Condorcet(1785)]{condorcet1785essay}
+Marquis~de Condorcet.
+\newblock Essai sur l'application de l'analyse à la probabilité des
+  décisions rendues à la pluralité des voix.
+\newblock \emph{Paris, Imprimerie Royale}, 1785.
+\newblock URL \url{https://archive.org/details/essaisurlapplica00cond/page/n6}.
+
+\bibitem[de~Finetti(1937)]{definetti1937prevision}
+Bruno de~Finetti.
+\newblock La pr{\'e}vision: ses lois logiques, ses sources subjectives.
+\newblock In \emph{Annales de l'institut Henri Poincar{\'e}}, volume~7, pages
+  1--68, 1937.
+\newblock URL \url{http://www.numdam.org/article/AIHP_1937__7_1_1_0.pdf}.
+
+\bibitem[de~Finetti(1974)]{finetti1974theory}
+Bruno de~Finetti.
+\newblock \emph{Theory of {P}robability - {A} critical introductory treatment},
+  volume~1.
+\newblock John Wiley \& Sons, 1974.
+\newblock URL
+  \url{https://www.wiley.com/en-us/Theory+of+Probability%3A+A+critical+introductory+treatment-p-9781119286370}.
+
+\bibitem[de~Finetti(1975)]{finetti1975theory}
+Bruno de~Finetti.
+\newblock Theory of {P}robability - {A} critical introductory treatment.
+\newblock Technical report, 1975.
+\newblock URL
+  \url{https://www.wiley.com/en-br/Theory+of+Probability%3A+A+critical+introductory+treatment-p-9781119286370}.
+
+\bibitem[DeGroot(2004)]{degroot2004optimal}
+Morris~H DeGroot.
+\newblock \emph{Optimal {S}tatistical {D}ecisions}, volume~82.
+\newblock John Wiley \& Sons, 2004.
+
+\bibitem[Donoho(2015)]{donoho201550years}
+David Donoho.
+\newblock 50 years of {D}ata {S}cience.
+\newblock 2015.
+\newblock URL
+  \url{http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf}.
+
+\bibitem[Epstein and Martin(2014)]{epstein2014introduction}
+Lee Epstein and Andrew~D Martin.
+\newblock \emph{An {I}ntroduction to {E}mpirical {L}egal {R}esearch}.
+\newblock Oxford University Press, 2014.
+\newblock URL
+  \url{https://global.oup.com/academic/product/an-introduction-to-empirical-legal-research-9780199669066?cc=br&lang=en&}.
+
+\bibitem[Feldman and Kim(2005)]{feldman2005hand}
+Allan~M. Feldman and Jeonghyun Kim.
+\newblock {The Hand Rule and United States v. Carroll Towing Co. Reconsidered}.
+\newblock \emph{American Law and Economics Review}, 7\penalty0 (2):\penalty0
+  523--543, 10 2005.
+\newblock ISSN 1465-7252.
+\newblock \doi{10.1093/aler/ahi017}.
+\newblock URL \url{https://doi.org/10.1093/aler/ahi017}.
+
+\bibitem[Ferrie(2019)]{ferrie2019Bayesian}
+C.~Ferrie.
+\newblock \emph{Bayesian {P}robability for {B}abies}.
+\newblock Baby University. Sourcebooks, Incorporated, 2019.
+\newblock ISBN 9781492680796.
+\newblock URL \url{https://books.google.com.br/books?id=-ee7vgEACAAJ}.
+
+\bibitem[France(1994)]{france1994article}
+France.
+\newblock Article 226-31, {L}oi no. 94-653 du 29 juillet 1994 - art. 8 {JORF} 30
+  juillet 1994, 1994.
+\newblock URL
+  \url{https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006418012&cidTexte=LEGITEXT000006070719&dateTexte=19940730}.
+
+\bibitem[France(2004)]{france2004article}
+France.
+\newblock Article 226-18, {L}oi no. 2004-801 du 6 août 2004 - art. 14 {JORF} 7
+  août 2004, 2004.
+\newblock URL
+  \url{https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006417968&cidTexte=LEGITEXT000006070719&dateTexte=20040807}.
+
+\bibitem[France(2019)]{france2019article}
+France.
+\newblock Article 33, {L}oi no. 2019-222 du 23 mars 2019, 2019.
+\newblock URL
+  \url{https://www.legifrance.gouv.fr/eli/loi/2019/3/23/2019-222/jo/article_33}.
+
+\bibitem[France(1829)]{france1829compte}
+Département de la~Justice France.
+\newblock \emph{Compte {G}énéral de {L}'administration de la {J}ustice
+  {C}riminelle en {F}rance}.
+\newblock De {L}'imprimerie {R}oyale, {P}aris, 1829.
+\newblock URL \url{http://gallica.bnf.fr/ark:/12148/bpt6k54760067}.
+
+\bibitem[Friendly(2008)]{friendly2008guerry}
+Michael Friendly.
+\newblock {A}.-{M}. {G}uerry’s {M}oral {S}tatistics of {F}rance: {C}hallenges
+  for {M}ultivariable {S}patial {A}nalysis.
+\newblock \emph{arXiv:0801.4263}, 2008.
+\newblock URL \url{https://arxiv.org/abs/0801.4263}.
+
+\bibitem[Gehrlein(2006)]{gehrlein2006condorcet}
+William~V Gehrlein.
+\newblock \emph{Condorcet’s {P}aradox}.
+\newblock Springer, 2006.
+\newblock URL \url{https://www.springer.com/gp/book/9783540337980}.
+
+\bibitem[Gehrlein and Lepelley(2011)]{gehrlein2011voting}
+William~V Gehrlein and Dominique Lepelley.
+\newblock \emph{Voting {P}aradoxes and {G}roup {C}oherence: the {C}ondorcet
+  {E}fficiency of {V}oting {R}ules}.
+\newblock Springer Science \& Business Media, 2011.
+\newblock URL \url{https://www.springer.com/gp/book/9783642031069}.
+
+\bibitem[Gerum(2019)]{gerum2019pylustrator}
+Richard Gerum.
+\newblock pylustrator: code generation for reproducible figures for
+  publication.
+\newblock \emph{arXiv:1910.00279}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1910.00279}.
+
+\bibitem[Gosh(1988)]{gosh1988statistical}
+JK~Gosh.
+\newblock Statistical {I}nformation and {L}ikelihood: A collection of
+  {C}ritical {E}ssays by {D}r. {D}. {B}asu.
+\newblock \emph{Lecture Notes in Statistics}, 45, 1988.
+\newblock URL \url{https://www.springer.com/gp/book/9780387967516}.
+
+\bibitem[Gottlieb and Hussain(2015)]{gottlieb2015voting}
+Klaus Gottlieb and Fez Hussain.
+\newblock Voting for image scoring and assessment (visa)-theory and application
+  of a 2+ 1 reader algorithm to improve accuracy of imaging endpoints in
+  clinical trials.
+\newblock \emph{BMC medical imaging}, 15\penalty0 (1):\penalty0 6, 2015.
+\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/25880066}.
+
+\bibitem[Grofman et~al.(1983)]{grofman1983thirteen}
+B.~Grofman, G.~Owen, and S.L. Feld.
+\newblock Thirteen theorems in search of the truth.
+\newblock \emph{Theory and decision}, 15\penalty0 (3):\penalty0 261--278, 1983.
+\newblock URL \url{https://link.springer.com/article/10.1007/BF00125672}.
+
+\bibitem[Grubbs et~al.(2003)]{grubbs2003international}
+Shelby~R. Grubbs et~al.
+\newblock \emph{International {C}ivil {P}rocedure}.
+\newblock Kluwer {L}aw {I}nternational, 2003.
+\newblock URL
+  \url{https://books.google.com.br/books?id=67xM08c9JLgC&pg=PA108&redir_esc=y#v=onepage&q&f=false}.
+
+\bibitem[Guerry(1833)]{guerry1833essai}
+Andr{\'e}-Michel Guerry.
+\newblock \emph{Essai sur la statistique morale de la {F}rance}.
+\newblock {A} {P}aris, {C}hez {C}rochard, {L}ibraire, 1833.
+\newblock URL \url{https://archive.org/details/essaisurlastatis00gueruoft}.
+
+\bibitem[Hald(2003)]{hald2003history}
+Anders Hald.
+\newblock \emph{A {H}istory of {P}robability and {S}tatistics and their
+  applications before 1750}, volume 501.
+\newblock John Wiley \& Sons, 2003.
+\newblock URL
+  \url{https://www.wiley.com/en-us/A+History+of+Probability+and+Statistics+and+Their+Applications+before+1750-p-9780471471295}.
+
+\bibitem[Hand(1947)]{hand1947united}
+Learned Hand.
+\newblock United {S}tates v. {C}arroll {T}owing {C}o., 159 f.2d 169 (2d cir.
+  1947).
+\newblock 1947.
+\newblock URL
+  \url{https://law.justia.com/cases/federal/appellate-courts/F2/159/169/1565896/}.
+
+\bibitem[Holmes~Jr.(1881)]{holmes1881common}
+Oliver~Wendell Holmes~Jr.
+\newblock The {C}ommon {L}aw, 1881.
+\newblock URL \url{https://www.gutenberg.org/files/2449/2449-h/2449-h.htm}.
+
+\bibitem[Holmes~Jr.(1897)]{holmes1897path}
+Oliver~Wendell Holmes~Jr.
+\newblock The {P}ath of the {L}aw.
+\newblock \emph{10 Harvard Law Review 457}, 1897.
+\newblock URL \url{http://moglen.law.columbia.edu/LCS/palaw.pdf}.
+
+\bibitem[Hyndman(2018)]{hyndman2018fpp2}
+Rob~J. Hyndman.
+\newblock \emph{{fpp2}: {D}ata for ``{F}orecasting: {P}rinciples and
+  {P}ractice''}, 2nd edition, 2018.
+\newblock URL \url{https://CRAN.R-project.org/package=fpp2}.
+\newblock R package version 2.3.
+
+\bibitem[Hyndman and Athanasopoulos(2018)]{hyndman2018forecasting}
+Rob~J. Hyndman and George Athanasopoulos.
+\newblock \emph{Forecasting: principles and practice}.
+\newblock OTexts, 2018.
+\newblock URL \url{https://otexts.com/fpp2}.
+
+\bibitem[Jasanoff(1992)]{jasanoff1992judges}
+Sheila Jasanoff.
+\newblock What judges should know about the sociology of science.
+\newblock \emph{Jurimetrics {J}ournal}, 32:\penalty0 345, 1992.
+\newblock URL \url{https://www.jstor.org/stable/29762258}.
+
+\bibitem[Jefferys and Berger(1992)]{jefferys1992ockham}
+William~H Jefferys and James~O Berger.
+\newblock Ockham's {R}azor and {B}ayesian {A}nalysis.
+\newblock \emph{American Scientist}, 80\penalty0 (1):\penalty0 64--72, 1992.
+\newblock URL \url{https://www.jstor.org/stable/pdf/29774559.pdf}.
+
+\bibitem[John~of Salisbury and Lejeune(2009)]{salisbury2009metalogicon}
+Bishop of~Chartres John~of Salisbury and Fran{\c{c}}ois Lejeune.
+\newblock \emph{Metalogicon (1159)}.
+\newblock Presses de l'Universit{\'e} Laval, 2009.
+\newblock URL
+  \url{https://archive.org/details/JeanDeSalisburyMetalogicon/page/n0}.
+
+\bibitem[Johnson et~al.(1995)]{johnson1995continuous}
+NL~Johnson, S~Kotz, and N~Balakrishnan.
+\newblock Continuous univariate distributions, vol. 2, johnson wiley \& sons,
+  1995.
+\newblock URL
+  \url{https://www.wiley.com/en-ag/Continuous+Univariate+Distributions,+Volume+2,+2nd+Edition-p-9780471584940}.
+
+\bibitem[Kadane(2012)]{kadane2012probability}
+Joseph~B. Kadane.
+\newblock Probability sampling in legal cases: Kansas cellphone users.
+\newblock In \emph{AIP Conference Proceedings}, volume 1490, pages 7--12. AIP,
+  2012.
+\newblock URL \url{https://doi.org/10.1063/1.4759584}.
+
+\bibitem[Kalven et~al.(1966)]{kalven1966american}
+Harry Kalven, Hans Zeisel, Thomas Callahan, and Philip Ennis.
+\newblock \emph{The {A}merican {J}ury}.
+\newblock Little, Brown Boston, 1966.
+\newblock URL \url{https://archive.org/details/americanjury00kalv}.
+
+\bibitem[Kaniovski and Zaigraev(2011)]{kaniovski2011optimal}
+Serguei Kaniovski and Alexander Zaigraev.
+\newblock Optimal jury design for homogeneous juries with correlated votes.
+\newblock \emph{Theory and decision}, 71\penalty0 (4):\penalty0 439--459, 2011.
+\newblock URL
+  \url{https://link.springer.com/article/10.1007/s11238-009-9170-2}.
+
+\bibitem[Kasner and Newman(1940)]{kasner1940mathematics}
+Edward Kasner and James~Roy Newman.
+\newblock \emph{Mathematics and the Imagination}.
+\newblock Simon and Schuster Inc., 1940.
+\newblock URL \url{https://archive.org/details/mathematicsimagi00kasnrich}.
+
+\bibitem[Kaye(1992)]{kaye1992proof}
+David~H. Kaye.
+\newblock Proof in {L}aw and {S}cience.
+\newblock \emph{Jurimetrics {J}ournal}, 32:\penalty0 313, 1992.
+\newblock URL
+  \url{https://elibrary.law.psu.edu/cgi/viewcontent.cgi?article=1055&context=fac_works}.
+
+\bibitem[Kemeny and Kurtz(1964)]{kemeny1964basic}
+John~G. Kemeny and Thomas~E. Kurtz.
+\newblock \emph{{BASIC}: {A} {M}anual for {BASIC}, the elementary algebraic
+  language designed for use with the {D}artmouth {T}ime {S}haring {S}ystem}.
+\newblock {D}artmouth {C}ollege {C}omputation {C}enter, 1964.
+\newblock URL
+  \url{http://bitsavers.trailing-edge.com/pdf/dartmouth/BASIC_Oct64.pdf}.
+
+\bibitem[Kohli(1975)]{kohli1975kommentar}
+Von~K. Kohli.
+\newblock Kommentar zur {D}issertation von {N}iklaus {B}ernoulli: {D}e {U}su
+  {A}rtis {C}onjectandi in {J}ure.
+\newblock In {H}erausgegeben von der~{N}atuforschenden Gesellchaft, editor,
+  \emph{Die {W}erk von {J}akob {B}ernoulli - {B}and 3}, chapter~K8, pages
+  541--556. Birkh{\"a}user Verlag, Basel, 1975.
+\newblock URL
+  \url{https://www.semanticscholar.org/paper/Kommentar-zur-Dissertation-von-Niklaus-Bernoulli\%3A-Kohli/248c35093047fd27faa7b18fa72dc5a970de8e2b}.
+
+\bibitem[Koller(2004)]{koller2004origin}
+David Koller.
+\newblock Origin of the name ``{G}oogle''.
+\newblock 2004.
+\newblock URL \url{http://graphics.stanford.edu/~dk/google_name_origin.html}.
+
+\bibitem[Kowalski(1995)]{kowalski1995legislation}
+Robert~A Kowalski.
+\newblock Legislation as {L}ogic {P}rograms.
+\newblock In \emph{Informatics and the {F}oundations of {L}egal {R}easoning},
+  pages 325--356. Springer, 1995.
+\newblock URL \url{https://www.doc.ic.ac.uk/~rak/papers/law.pdf}.
+
+\bibitem[Kritzer(2009)]{kritzer2009empirical}
+Herbert~M Kritzer.
+\newblock Empirical {L}egal {S}tudies before 1940: a bibliographic essay.
+\newblock \emph{Journal of {E}mpirical {L}egal {S}tudies}, 6\penalty0
+  (4):\penalty0 925--968, 2009.
+\newblock URL
+  \url{https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1007&context=faculty_articles}.
+
+\bibitem[Ladha(1992)]{ladha1992condorcet}
+Krishna~K Ladha.
+\newblock The {C}ondorcet {J}ury {T}heorem, {F}ree {S}peech, and {C}orrelated
+  {V}otes.
+\newblock \emph{American Journal of Political Science}, pages 617--634, 1992.
+\newblock URL \url{https://www.jstor.org/stable/2111584}.
+
+\bibitem[Laplace(1774)]{laplace1774memoire}
+Pierre-Simon Laplace.
+\newblock M{\'e}moire sur la {P}robabilit{\'e} des {C}auses par les
+  {\'e}v{\'e}nements.
+\newblock \emph{M{\'e}moires de l’Académie royale des {S}ciences de {P}aris
+  ({S}avants étrangers)}, 6:\penalty0 621--656, 1774.
+\newblock URL \url{https://gallica.bnf.fr/ark:/12148/bpt6k77596b/f32}.
+
+\bibitem[Leeuw and Schmeets(2016)]{leeuw2016empirical}
+Frans~L Leeuw and Hans Schmeets.
+\newblock \emph{Empirical legal research: A guidance book for lawyers,
+  legislators and regulators}.
+\newblock Edward Elgar Publishing, 2016.
+\newblock URL \url{https://searchworks.stanford.edu/view/11663036}.
+
+\bibitem[Leibniz(1666)]{leibniz1666dissertatio}
+Gottfried~Wilhelm Leibniz.
+\newblock Dissertatio de {A}rte {C}ombinatoria.
+\newblock \emph{Leipzig: Johann Simon Fick and Johann Polycarp Seubold (1890)},
+  1666.
+\newblock URL \url{https://archive.org/details/ita-bnc-mag-00000844-001}.
+
+\bibitem[Leonard(1980)]{leonard1980roles}
+Tom Leonard.
+\newblock The roles of inductive modelling and coherence in {B}ayesian
+  statistics.
+\newblock \emph{Trabajos de Estadistica Y de Investigacion Operativa},
+  31\penalty0 (1):\penalty0 537--555, 1980.
+\newblock URL
+  \url{https://link.springer.com/content/pdf/10.1007/BF02888367.pdf}.
+
+\bibitem[List and Goodin(2001)]{list2001epistemic}
+Christian List and Robert~E Goodin.
+\newblock Epistemic {D}emocracy: {G}eneralizing the {C}ondorcet {J}ury
+  {T}heorem.
+\newblock \emph{Journal of political philosophy}, 9\penalty0 (3):\penalty0
+  277--306, 2001.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9760.00128}.
+
+\bibitem[Llewellyn(1930{\natexlab{a}})]{llewellyn1930bramble}
+Karl~Nickerson Llewellyn.
+\newblock \emph{The {B}ramble {B}ush: some lectures on law and its study}.
+\newblock Columbia {U}niversity {S}chool of {L}aw, 1930{\natexlab{a}}.
+\newblock URL
+  \url{https://home.heinonline.org/titles/Legal-Classics/Bramble-Bush--Some-Lectures-on-Law-and-Its-Study/}.
+
+\bibitem[Llewellyn(1930{\natexlab{b}})]{llewellyn1930realistic}
+Karl~Nickerson Llewellyn.
+\newblock A {R}ealistic {J}urisprudence -- {T}he {N}ext {S}tep.
+\newblock \emph{Columbia Law Review}, 30:\penalty0 431, 1930{\natexlab{b}}.
+\newblock URL \url{https://www.jstor.org/stable/1114548}.
+
+\bibitem[Loevinger(1949)]{loevinger1949jurimetrics}
+Lee Loevinger.
+\newblock Jurimetrics -- {T}he {N}ext {S}tep {F}orward.
+\newblock \emph{Minnesota {L}aw {R}eview}, 33:\penalty0 455--470, 1949.
+\newblock URL
+  \url{https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=2795&context=mlr}.
+
+\bibitem[Loevinger(1950)]{loevinger1950semantics}
+Lee Loevinger.
+\newblock The {S}emantics of {J}ustice, 1950.
+\newblock URL \url{https://www.jstor.org/stable/42581335}.
+
+\bibitem[Loevinger(1952)]{loevinger1952introduction}
+Lee Loevinger.
+\newblock An {I}ntroduction to {L}egal {L}ogic.
+\newblock \emph{Indiana {L}aw {J}ournal}, 27\penalty0 (4):\penalty0 1, 1952.
+\newblock URL
+  \url{https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=2372&context=ilj}.
+
+\bibitem[Loevinger(1958)]{loevinger1958facts}
+Lee Loevinger.
+\newblock Facts, {E}vidence and {L}egal {P}roof.
+\newblock \emph{Case {W}estern {R}eserve {L}aw {R}eview}, 9:\penalty0 154,
+  1958.
+\newblock URL
+  \url{https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=3731&context=caselrev}.
+
+\bibitem[Loevinger(1961)]{loevinger1961jurimetrics}
+Lee Loevinger.
+\newblock Jurimetrics: {S}cience and {P}rediction in the {F}ield of {L}aw.
+\newblock \emph{Minnesota {L}aw {R}eview}, 46:\penalty0 255, 1961.
+\newblock URL
+  \url{https://www.semanticscholar.org/paper/1961-Jurimetrics-%3A-Science-and-Prediction-in-the-of-Loevinger/bb504a3ae2a072d725f2b7463aaf2ca4794adfd1}.
+
+\bibitem[Loevinger(1962)]{loevinger1962occam}
+Lee Loevinger.
+\newblock Occam's {E}lectric {R}azor.
+\newblock \emph{MULL: Modern Uses of Logic in Law}, pages 209--214, 1962.
+\newblock URL \url{https://www.jstor.org/stable/29760907}.
+
+\bibitem[Loevinger(1963)]{loevinger1963jurimetrics}
+Lee Loevinger.
+\newblock Jurimetrics: The {M}ethodology of {L}egal {I}nquiry.
+\newblock \emph{Law \& {C}ontemporary {P}roblems}, 28:\penalty0 5, 1963.
+\newblock URL
+  \url{https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2945&context=lcp}.
+
+\bibitem[Loevinger(1966)]{loevinger1966law}
+Lee Loevinger.
+\newblock Law and {S}cience as {R}ival {S}ystems.
+\newblock \emph{Jurimetrics Journal}, pages 63--82, 1966.
+\newblock URL \url{https://www.jstor.org/stable/29761074}.
+
+\bibitem[Loevinger(1985)]{loevinger1985science}
+Lee Loevinger.
+\newblock Science, technology and law in modern society.
+\newblock \emph{Jurimetrics Journal}, 26:\penalty0 20, 1985.
+\newblock URL \url{https://www.jstor.org/stable/29761943}.
+
+\bibitem[Loevinger(1992{\natexlab{a}})]{loevinger1992logic}
+Lee Loevinger.
+\newblock On {L}ogic and {S}ociology.
+\newblock \emph{Jurimetrics {J}ournal}, 32:\penalty0 527, 6 1992{\natexlab{a}}.
+\newblock URL
+  \url{https://heinonline.org/HOL/LandingPage?handle=hein.journals/juraba32&div=36&id=&page=}.
+
+\bibitem[Loevinger(1992{\natexlab{b}})]{loevinger1992standards}
+Lee Loevinger.
+\newblock {S}tandards of {P}roof in {S}cience and {L}aw.
+\newblock \emph{Jurimetrics {J}ournal}, pages 323--344, 3 1992{\natexlab{b}}.
+\newblock URL \url{https://www.jstor.org/stable/29762257}.
+
+\bibitem[Lopes et~al.(2016)]{lopes2016estimating}
+Lucelene Lopes, Paulo Fernandes, and Renata Vieira.
+\newblock Estimating term domain relevance through term frequency, disjoint
+  corpora frequency - tf-dcf.
+\newblock \emph{Knowledge-Based Systems}, 97:\penalty0 237--249, 2016.
+\newblock URL \url{https://doi.org/10.1016/j.knosys.2015.12.015}.
+
+\bibitem[Loschi and Wechsler(2002)]{loschi2002coherence}
+Rosangela~H Loschi and Sergio Wechsler.
+\newblock Coherence, bayes's theorem and posterior distributions.
+\newblock \emph{Brazilian Journal of Probability and Statistics}, pages
+  169--185, 2002.
+\newblock URL \url{https://www.jstor.org/stable/43601015}.
+
+\bibitem[Marcondes et~al.(2019)]{marcondes2019assessing}
+Diego Marcondes, Cl{\'a}udia Peixoto, and Julio~Michael Stern.
+\newblock Assessing randomness in case assignment: the case study of the
+  {B}razilian {S}upreme {C}ourt.
+\newblock \emph{Law, {P}robability and {R}isk}, 18\penalty0 (2-3):\penalty0
+  97--114, 2019.
+\newblock URL \url{https://doi.org/10.1093/lpr/mgz006}.
+
+\bibitem[Maron and Kuhns(1960)]{maron1960relevance}
+Melvin~Earl Maron and John~Larry Kuhns.
+\newblock On relevance, probabilistic indexing and information retrieval.
+\newblock \emph{Journal of the ACM (JACM)}, 7\penalty0 (3):\penalty0 216--244,
+  1960.
+\newblock URL \url{https://dl.acm.org/citation.cfm?id=321035}.
+
+\bibitem[Matson(2012)]{matson2012effective}
+Jack~V Matson.
+\newblock \emph{Effective {E}xpert {W}itnessing: {P}ractices for the 21st
+  {C}entury}.
+\newblock CRC Press, 2012.
+\newblock URL
+  \url{https://www.crcpress.com/Effective-Expert-Witnessing-Practices-for-the-21st-Century/Matson/p/book/9781439887677}.
+
+\bibitem[Mayo(2014)]{mayo2014birnbaum}
+Deborah~G Mayo.
+\newblock On the {B}irnbaum {A}rgument for the {S}trong {L}ikelihood
+  {P}rinciple.
+\newblock \emph{arXiv:1411.3188}, 2014.
+\newblock URL \url{https://arxiv.org/abs/1302.7021}.
+
+\bibitem[Mehl(1959)]{mehl1958automation}
+Lucien Mehl.
+\newblock Automation in the legal world. {I}n `mechanisation of thought
+  processes', volume 1. proceedings of a symposium held at the national
+  physical laboratory on 24th, 25th, 26th and 27th november 1958.
+\newblock pages 755--788, 1959.
+\newblock URL \url{https://archive.org/details/mechanisationoft01nati}.
+
+\bibitem[Merton(1993)]{merton1993shoulders}
+Robert~K Merton.
+\newblock \emph{On the {S}houlders of {G}iants: The post-{I}talianate edition}.
+\newblock University of Chicago Press, 1993.
+\newblock URL
+  \url{https://www.press.uchicago.edu/ucp/books/book/chicago/O/bo3641858.html}.
+
+\bibitem[Montoya-Delgado et~al.(2001)]{montoya2001unconditional}
+Luis~E Montoya-Delgado, Telba~Z Irony, Carlos A de~B Pereira, and Martin~R
+  Whittle.
+\newblock An unconditional exact test for the {H}ardy-{W}einberg equilibrium
+  law: sample-space ordering using the {B}ayes {F}actor.
+\newblock \emph{Genetics}, 158\penalty0 (2):\penalty0 875--883, 2001.
+\newblock URL
+  \url{https://www.genetics.org/content/genetics/158/2/875.full.pdf}.
+
+\bibitem[Montoya-Delgado(1998)]{montoya1998prob}
+Luis~Eduardo Montoya-Delgado.
+\newblock \emph{Probabilidade de {P}aternidade -- {U}ma proposta metodológica
+  para o seu cálculo}.
+\newblock PhD thesis, IME-USP -- {I}nstituto de {M}atemática e {E}statística
+  da {U}niversidade de {S}ão {P}aulo, 1998.
+
+\bibitem[Munafò et~al.(2017)]{munafo2017manifesto}
+Marcus~R. Munafò, Brian~A. Nosek, Dorothy~V.M. Bishop, Katherine~S. Button,
+  Christopher~D. Chambers, Nathalie~Percie Du~Sert, Uri Simonsohn, Eric-Jan
+  Wagenmakers, Jennifer~J. Ware, and John~P.A. Ioannidis.
+\newblock A manifesto for reproducible science.
+\newblock \emph{Nature {H}uman {B}ehaviour}, 1\penalty0 (1):\penalty0 0021,
+  2017.
+\newblock URL \url{https://www.nature.com/articles/s41562-%20016-0021}.
+
+\bibitem[Nakamoto(2008)]{nakamoto2008bitcoin}
+Satoshi Nakamoto.
+\newblock Bitcoin: {A} {P}eer-to-{P}eer {E}lectronic {C}ash {S}ystem.
+\newblock 2008.
+\newblock URL \url{https://bitcoin.org/bitcoin.pdf}.
+
+\bibitem[Nakano(2006)]{nakano2006novel}
+Fábio Nakano.
+\newblock \emph{Um {N}ovo {M}odelo para {C}álculo de {P}robabilidade de
+  {P}aternidade - {C}oncepção e {I}mplementação}.
+\newblock PhD thesis, IME-USP -- {I}nstituto de {M}atemática e {E}statística
+  da {U}niversidade de {S}ão {P}aulo, 2006.
+\newblock URL
+  \url{https://teses.usp.br/teses/disponiveis/95/95131/tde-09032007-172617/en.php}.
+
+\bibitem[Nunes(2016)]{nunes2016jurimetria}
+Marcelo~Guedes Nunes.
+\newblock Jurimetria: como a {E}statística pode reinventar o {D}ireito.
+\newblock \emph{São Paulo: Editora Revista dos Tribunais}, 2016.
+\newblock URL \url{https://www.livrariart.com.br/jurimetria-9788520367940/p}.
+
+\bibitem[Oliveira(2014)]{oliveira2014jurimetria}
+{I}slaine {S}onemann {F}ernandes~de Oliveira.
+\newblock Jurimetria: {U}ma aplicação para a base de dados do {TJ-MG}.
+\newblock Technical report, PUCRS, Mathematics Faculty, 2014.
+\newblock URL
+  \url{http://www.aclassica.com/jurimetrics/oliveira2014jurimetria.pdf}.
+
+\bibitem[Pashler and Wagenmakers(2012)]{pashler2012editors}
+Harold Pashler and Eric–Jan Wagenmakers.
+\newblock Editors’ {I}ntroduction to the {S}pecial {S}ection on
+  {R}eplicability in {P}sychological {S}cience: {A} {C}risis of {C}onfidence?
+\newblock \emph{Perspectives on Psychological Science}, 7\penalty0
+  (6):\penalty0 528--530, 2012.
+\newblock \doi{10.1177/1745691612465253}.
+\newblock URL \url{https://doi.org/10.1177/1745691612465253}.
+\newblock PMID: 26168108.
+
+\bibitem[Pereira and Stern(1999)]{pereira1999evidence}
+Carlos A. de~Bragança Pereira and Julio Stern.
+\newblock Evidence and {C}redibility: {F}ull {B}ayesian {S}ignificance {T}est
+  for {P}recise {H}ypotheses.
+\newblock \emph{Entropy}, 1\penalty0 (4):\penalty0 99--110, 1999.
+\newblock URL \url{https://www.mdpi.com/1099-4300/1/4/99}.
+
+\bibitem[Poisson(1837)]{poisson1837recherches}
+Sim{\'e}on~Denis Poisson.
+\newblock \emph{Recherches sur la probabilit{\'e} des jugements en mati{\`e}re
+  criminelle et en mati{\`e}re civile prec{\'e}d{\'e}es des r{\`e}gles
+  g{\'e}n{\'e}rales du calcul des probabilit{\'e}s}.
+\newblock Bachelier, 1837.
+\newblock URL
+  \url{https://ia800209.us.archive.org/27/items/recherchessurlap00pois/recherchessurlap00pois.pdf}.
+
+\bibitem[{R Core Team}(2019)]{r2019r}
+{R Core Team}.
+\newblock \emph{R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2019.
+\newblock URL \url{https://www.R-project.org/}.
+
+\bibitem[Schlag(2009)]{schlag2009dedifferentiation}
+Pierre Schlag.
+\newblock The dedifferentiation problem.
+\newblock \emph{Continental Philosophy Review}, 42\penalty0 (1):\penalty0
+  35--62, 2009.
+
+\bibitem[Schlegel(1995)]{schlegel1995american}
+John~Henry Schlegel.
+\newblock \emph{American {L}egal {R}ealism and {E}mpirical {S}ocial {S}cience}.
+\newblock Univ of North Carolina Press, 1995.
+\newblock URL
+  \url{https://uncpress.org/book/9780807857533/american-legal-realism-and-empirical-social-science/}.
+
+\bibitem[Spärck~Jones(1972)]{sparck1972statistical}
+Karen Spärck~Jones.
+\newblock A statistical interpretation of term specificity and its application
+  in retrieval.
+\newblock \emph{Journal of documentation}, 28\penalty0 (1):\penalty0 11--21,
+  1972.
+\newblock URL \url{http://dx.doi.org/10.1108/eb026526}.
+
+\bibitem[Stigler(1980)]{stigler1980stigler}
+Stephen~M Stigler.
+\newblock Stigler's {L}aw of {E}ponymy.
+\newblock \emph{Transactions of the New York academy of sciences}, 39\penalty0
+  (1 Series II):\penalty0 147--157, 1980.
+\newblock URL \url{http://doi.wiley.com/10.1111/j.2164-0947.1980.tb02775.x}.
+
+\bibitem[Stigler(1986)]{stigler1986history}
+Stephen~M. Stigler.
+\newblock \emph{The {H}istory of {S}tatistics: {T}he {M}easurement of
+  {U}ncertainty before 1900}.
+\newblock Harvard University Press, 1986.
+\newblock URL \url{https://www.hup.harvard.edu/catalog.php?isbn=9780674403413}.
+
+\bibitem[Stiles(1961)]{stiles1961association}
+H~Edmund Stiles.
+\newblock The {A}ssociation {F}actor in {I}nformation {R}etrieval.
+\newblock \emph{Journal of the ACM (JACM)}, 8\penalty0 (2):\penalty0 271--279,
+  1961.
+\newblock URL \url{https://dl.acm.org/citation.cfm?id=321074}.
+
+\bibitem[Szabo(1996)]{szabo1996smart}
+Nick Szabo.
+\newblock Smart contracts: building blocks for digital markets.
+\newblock \emph{EXTROPY: The Journal of Transhumanist Thought,(16)},
+  18:\penalty0 2, 1996.
+\newblock URL
+  \url{http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html}.
+
+\bibitem[Trecenti(2015)]{trecenti2015diagramas}
+Julio Adolfo~Zucon Trecenti.
+\newblock \emph{Diagramas de influência: uma aplicação em {J}urimetria}.
+\newblock PhD thesis, IME-USP -- {I}nstituto de {M}atemática e {E}statística
+  da {U}niversidade de {S}ão {P}aulo, 2015.
+
+\bibitem[Wang(2009)]{wang2009online}
+Faye~Fangfei Wang.
+\newblock \emph{Online {D}ispute {R}esolution: {T}echnology, management and
+  legal practice from an international perspective}.
+\newblock Chandos, 2009.
+\newblock URL
+  \url{https://books.google.com.br/books/about/Online_Dispute_Resolution.html?id=3B9hmAEACAAJ&source=kp_book_description&redir_esc=y}.
+
+\bibitem[Wasserstein et~al.(2019)]{wasserstein2019moving}
+Ronald~L Wasserstein, Allen~L Schirm, and Nicole~A Lazar.
+\newblock Moving to a world beyond ``p< 0.05'', 2019.
+\newblock URL
+  \url{https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913}.
+
+\bibitem[Wechsler et~al.(2006)]{wechsler2006analise}
+S.~Wechsler, D.K. Colombo, F.V. Bonassi, and L.G.M. Reginato.
+\newblock Relatório de análise estatística sobre o projeto: `{A}nálise
+  {E}conômica do {D}ireito aplicada a decisões judiciais: o caso dos
+  contratos de arrendamento mercantil para compra de veículos com cláusulas
+  de reajuste associadas ao dólar', 2006.
+
+\bibitem[Wechsler et~al.(2008)]{wechsler2008birnbaum}
+Sérgio Wechsler, Carlos Alberto de~Bragança Pereira, and P.~C.~F. Marques.
+\newblock Birnbaum's {T}heorem {R}edux, 2008.
+\newblock URL \url{https://www.ime.usp.br/~pmarques/papers/redux.pdf}.
+
+\bibitem[Wickham(2016)]{wickham2016ggplot2}
+Hadley Wickham.
+\newblock \emph{ggplot2: {E}legant {G}raphics for {D}ata {A}nalysis}.
+\newblock Springer-Verlag New York, 2016.
+\newblock ISBN 978-3-319-24277-4.
+\newblock URL \url{https://ggplot2.tidyverse.org}.
+
+\bibitem[Wilkinson(2005)]{wilkinson2005grammar}
+Leland Wilkinson.
+\newblock The {G}rammar of {G}raphics.
+\newblock \emph{Springer-Verlag, New York, USA}, 37, 2005.
+\newblock URL \url{https://www.springer.com/gp/book/9780387245447}.
+
+\bibitem[Williams(2004)]{williams2004condorcet}
+David Williams.
+\newblock \emph{Condorcet and {M}odernity}.
+\newblock Cambridge University Press, 2004.
+\newblock URL
+  \url{https://books.google.com.br/books/about/Condorcet_and_Modernity.html?id=MC1InwEACAAJ&redir_esc=y}.
+
+\bibitem[Winston(1985)]{winston1985suggested}
+Roger~B Winston.
+\newblock A suggested procedure for determining order of authorship in research
+  publications.
+\newblock \emph{Journal of Counseling and Development}, 63\penalty0
+  (8):\penalty0 515--518, 1985.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1556-6676.1985.tb02749.x}.
+
+\bibitem[Zabala(2019)]{zabala2019Bayesian}
+Filipe~J. Zabala.
+\newblock A {B}ayesian {A}pplication in {J}udicial {D}ecisions.
+\newblock \emph{arXiv:1912.10566}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1912.10566}.
+
+\bibitem[Zabala and Silveira(2014)]{zabala2014jurimetria}
+Filipe~J. Zabala and Fabiano~F. Silveira.
+\newblock {Jurimetrics}: Statistics {A}pplied in the {L}aw (in portuguese).
+\newblock \emph{Revista Direito e Liberdade}, 16\penalty0 (1):\penalty0
+  87--103, 2014.
+\newblock URL
+  \url{http://www.esmarn.tjrn.jus.br/revistas/index.php/revista_direito_e_liberdade/article/view/732}.
+
+\bibitem[Zabala and Silveira(2019)]{zabala2019jurimetrics}
+Filipe~J. Zabala and Fabiano~F. Silveira.
+\newblock \emph{jurimetrics: General Purpouse Tools for Jurimetrics}, 2019.
+\newblock URL \url{https://www.github.com/filipezabala/jurimetrics}.
+\newblock R package version 0.1.0.
+
+\bibitem[Zaigraev and Kaniovski(2012)]{zaigraev2012note}
+Alexander Zaigraev and Serguei Kaniovski.
+\newblock A note on the probability of at least $k$ successes in $n$ correlated
+  binary trials.
+\newblock \emph{Operations Research Letters}, 41\penalty0 (1):\penalty0
+  116--120, 2012.
+\newblock URL
+  \url{https://serguei.kaniovski.wifo.ac.at/fileadmin/files_kaniovski/pdf/corr_binom.pdf}.
+
+\end{thebibliography}

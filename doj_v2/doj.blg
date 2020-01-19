@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: doj.aux
+The style file: plainnat.bst
+Database file #1: doj.bib
+Warning--entry type for "wechsler2006analise" isn't style-file defined
+--line 799 of file doj.bib
+Warning--string name "[https://link.springer.com/article/10.1007/s11007-009-9095-z" is undefined
+--line 871 of file doj.bib
+Warning--there's a number but no volume in bayes1763essay
+Warning--can't use both volume and number fields in definetti1937prevision
+Warning--empty institution in finetti1975theory
+Warning--empty journal in donoho201550years
+Warning--empty journal in hand1947united
+Warning--can't use both volume and number fields in kadane2012probability
+Warning--empty journal in koller2004origin
+Warning--empty journal in mehl1958automation
+Warning--empty journal in nakamoto2008bitcoin
+You've used 129 entries,
+            2773 wiz_defined-function locations,
+            1364 strings with 30437 characters,
+and the built_in function-call counts, 48821 in all, are:
+= -- 4540
+> -- 1914
+< -- 136
++ -- 702
+- -- 571
+* -- 3330
+:= -- 7687
+add.period$ -- 508
+call.type$ -- 129
+change.case$ -- 540
+chr.to.int$ -- 127
+cite$ -- 267
+duplicate$ -- 2587
+empty$ -- 4486
+format.name$ -- 747
+if$ -- 10321
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 137
+newline$ -- 768
+num.names$ -- 518
+pop$ -- 1174
+preamble$ -- 1
+purify$ -- 447
+quote$ -- 0
+skip$ -- 1884
+stack$ -- 0
+substring$ -- 1413
+swap$ -- 244
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1259
+warning$ -- 9
+while$ -- 494
+width$ -- 0
+write$ -- 1858
+(There were 11 warnings)
